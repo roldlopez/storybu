@@ -21,7 +21,7 @@ export const Defecto = {
     args: {
         primary: true,
         size: 'normal',
-        label: 'Button',
+        label: 'Botón',
     },
 };
 
